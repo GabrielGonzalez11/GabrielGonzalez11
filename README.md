@@ -3,7 +3,9 @@
 [![Bandera de Argentina en movimiento](https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Argentina-Animated.gif)](es.wikipedia.org)
 
 ### Languages and Tools:
-![image](https://github.com/GabrielGonzalez11/GabrielGonzalez11/assets/135771999/82040eb0-b1df-4867-a99b-c803fc21d4e5) ![image](https://github.com/GabrielGonzalez11/GabrielGonzalez11/assets/135771999/76288979-c22d-4a22-95b9-0be0329da164) ![image](https://github.com/GabrielGonzalez11/GabrielGonzalez11/assets/135771999/484aa7e0-e896-4270-9a8b-286c65e9cf9c) ![image](https://github.com/GabrielGonzalez11/GabrielGonzalez11/assets/135771999/ff7e8ccc-7a0a-470c-bcbc-f744c762c215)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
