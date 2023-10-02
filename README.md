@@ -1,7 +1,6 @@
 ### Hi there, I'm Gabriel👋
  I'm from Argentina
- ![image](https://github.com/GabrielGonzalez11/GabrielGonzalez11/assets/135771999/b083862f-f14b-43f1-b3ca-1eeee3bda079)
-Languages and tools:
+ Languages and tools:
 ![image](https://github.com/GabrielGonzalez11/GabrielGonzalez11/assets/135771999/82040eb0-b1df-4867-a99b-c803fc21d4e5) ![image](https://github.com/GabrielGonzalez11/GabrielGonzalez11/assets/135771999/76288979-c22d-4a22-95b9-0be0329da164) ![image](https://github.com/GabrielGonzalez11/GabrielGonzalez11/assets/135771999/484aa7e0-e896-4270-9a8b-286c65e9cf9c) ![image](https://github.com/GabrielGonzalez11/GabrielGonzalez11/assets/135771999/4274e8a5-1838-48dc-b139-10ea68194974)
 
 
