@@ -5,7 +5,7 @@
 ### Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
 
-![Snake animation](https://github.com/GabrielGonzalez11/GabrielGonzalez11/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 
 
