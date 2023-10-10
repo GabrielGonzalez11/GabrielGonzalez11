@@ -3,7 +3,7 @@
 [![Bandera de Argentina en movimiento](https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Argentina-Animated.gif)](es.wikipedia.org)
 
 ### Languages and Tools:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
+  <img src="https://skillicons.dev/icons?i=git,github,java,js,py&perline=14" />
 
 
 
